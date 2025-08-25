@@ -266,11 +266,6 @@ class ExtendedMonitor(MemoryMonitor):
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/) - HTML解析库
 - [Python multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - 多进程支持
 
-## 📞 联系方式
-
-- 项目主页: [https://github.com/yourusername/WebCrawler](https://github.com/yourusername/WebCrawler)
-- 问题反馈: [Issues](https://github.com/yourusername/WebCrawler/issues)
-- 邮箱: your.email@example.com
 
 ---
 
